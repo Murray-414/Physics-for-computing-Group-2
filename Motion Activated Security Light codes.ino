@@ -1,7 +1,7 @@
 // Motion Activated Security Light
 
 int pirPin = 2;       // PIR sensor output
-int ledPin = 13;     // Led Pin.
+int ledPin = 13;      // LED connected to digital pin 13 (usually the built-in LED
 int pirState = LOW;
 int val = 0;
 
